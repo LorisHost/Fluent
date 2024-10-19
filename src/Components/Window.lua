@@ -38,7 +38,7 @@ return function(Config)
 
 	local Selector = New("Frame", {
 		Size = UDim2.fromOffset(4, 0),
-		BackgroundColor3 = Color3.fromRGB(76, 194, 255),
+		BackgroundColor3 = Color3.fromRGB(2, 82, 135),
 		Position = UDim2.fromOffset(0, 17),
 		AnchorPoint = Vector2.new(0, 0.5),
 		ThemeTag = {
